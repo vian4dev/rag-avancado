@@ -24,6 +24,7 @@
 # RAG Avançado
 
 ## ✒️ Descrição
+Neste projeto, exploramos o uso do Parent Document Retriever que é uma técnica de recuperação de documentos usada em sistemas RAG (Retrieval-Augmented Generation) que melhora a qualidade da resposta e a relevância contextual. Em vez de indexar trechos pequenos ou fragmentos de texto diretamente, esse método faz a recuperação com base em documentos maiores ("parent documents") e só depois divide o conteúdo para geração.
 
 ## 🚀 Tecnologias utilizadas
 <div style="display: inline_block"><br>
