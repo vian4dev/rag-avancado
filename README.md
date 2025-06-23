@@ -34,7 +34,7 @@ Neste projeto, exploramos o uso do Parent Document Retriever que é uma técnica
 ## 📷 Demostração
 Apresentação do esquema da aplicação.
 <div align="center">
-  <img src="./.github/arquitetura-avancado-rag.png" alt="arquitetura-rag-avancado" />
+  <img src="./.github/arquitetura-avancada-rag.png" alt="arquitetura-rag-avancado" />
 </div>
 
 ## 🔥 Instalação
